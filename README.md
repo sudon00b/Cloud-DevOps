@@ -23,9 +23,9 @@ This repository (and possibly subfolders or related repos) will contain:
 
 ```bash
 .
-├── terraform-labs/         # Infrastructure as Code demos
-├── cicd-pipelines/         # Sample CI/CD workflows
-├── k8s-deployments/        # Kubernetes manifests and Helm charts
-├── cloud-projects/         # Projects using AWS/GCP/Azure
-├── scripts/                # Handy Bash, Python, or PowerShell scripts
+├── terraform-*/         # Infrastructure as Code demos
+├── cicd-*/         # Sample CI/CD workflows
+├── k8s-*/        # Kubernetes manifests and Helm charts
+├── cloud-*/         # Projects using AWS/GCP/Azure
+├── scripts-*/                # Handy Bash, Python, or PowerShell scripts
 └── README.md               # You're here!
