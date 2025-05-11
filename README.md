@@ -14,7 +14,7 @@ This repository (and possibly subfolders) will contain:
 - ✅ **Infrastructure as Code** (Terraform, Opentofu, Typescript(CDKTF))
 - 🐳 **Containerization** (Docker, Podman)
 - ☸️ **Orchestration** (Kubernetes, Helm)
-- 📦 **CI/CD Pipelines** (GitHub Actions, Jenkins, GitLab CI)
+- 📦 **CI/CD Pipelines** (GitHub Actions, Azure DevOps)
 - ☁️ **Cloud Platforms** (Azure, AWS)
 - 🔒 **Security & IAM** concepts
 - 🔧 **Monitoring & Logging** (Prometheus, Grafana, ELK)
