@@ -12,7 +12,7 @@ I'm **Sudhakar**, a **Cloud & DevOps Engineer** passionate about building scalab
 This repository (and possibly subfolders) will contain:
 
 - ✅ **Infrastructure as Code** (Terraform, Opentofu, Typescript(CDKTF))
-- 🐳 **Containerization** (Docker, Podman)
+- 🐳 **Containerization** (Docker)
 - ☸️ **Orchestration** (Kubernetes, Helm)
 - 📦 **CI/CD Pipelines** (GitHub Actions, Azure DevOps)
 - ☁️ **Cloud Platforms** (Azure, AWS)
