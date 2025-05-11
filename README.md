@@ -14,7 +14,7 @@ This repository (and possibly subfolders or related repos) will contain:
 - 🐳 **Containerization** (Docker, Podman)
 - ☸️ **Orchestration** (Kubernetes, Helm)
 - 📦 **CI/CD Pipelines** (GitHub Actions, Jenkins, GitLab CI)
-- ☁️ **Cloud Platforms** (AWS, Azure, GCP)
+- ☁️ **Cloud Platforms** (Azure, AWS)
 - 🔒 **Security & IAM** concepts
 - 🔧 **Monitoring & Logging** (Prometheus, Grafana, ELK)
 - 📝 Labs, mini-projects, and learning notes
