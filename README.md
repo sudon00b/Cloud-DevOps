@@ -4,7 +4,8 @@ Welcome to my Cloud and DevOps portfolio! This is my personal space to learn, bu
 
 ## 🚀 About Me
 
-Hey there! I'm **Sudhakar**, a passionate learner exploring the world of infrastructure, automation, and scalable cloud-native systems. I'm building this repo as a digital playground and portfolio to document my journey.
+I'm **Sudhakar**, a **Cloud & DevOps Engineer** passionate about building scalable, reliable, and automated infrastructure. I specialize in cloud-native technologies, CI/CD, and Infrastructure as Code. This portfolio serves as my public lab and resume — a place where I document what I’ve done and what I’m exploring next.
+
 
 ## 🛠️ What You'll Find Here
 
