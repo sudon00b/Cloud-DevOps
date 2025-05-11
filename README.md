@@ -10,7 +10,7 @@ Hey there! I'm **Sudhakar**, a passionate learner exploring the world of infrast
 
 This repository (and possibly subfolders or related repos) will contain:
 
-- ✅ **Infrastructure as Code** (Terraform, Opentofu, TYypescript(CDKTF))
+- ✅ **Infrastructure as Code** (Terraform, Opentofu, Typescript(CDKTF))
 - 🐳 **Containerization** (Docker, Podman)
 - ☸️ **Orchestration** (Kubernetes, Helm)
 - 📦 **CI/CD Pipelines** (GitHub Actions, Jenkins, GitLab CI)
