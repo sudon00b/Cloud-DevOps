@@ -27,6 +27,6 @@ This repository (and possibly subfolders) will contain:
 ├── terraform-*/         # Infrastructure as Code demos
 ├── cicd-*/         # Sample CI/CD workflows
 ├── k8s-*/        # Kubernetes manifests and Helm charts
-├── cloud-*/         # Projects using AWS/GCP/Azure
+├── cloud-*/         # Projects using AWS/Azure
 ├── scripts-*/                # Handy Bash, Python, or PowerShell scripts
 └── README.md               # You're here!
