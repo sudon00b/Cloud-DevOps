@@ -10,7 +10,7 @@ I'm **Sudhakar**, a **Cloud & DevOps Engineer** passionate about designing cloud
 
 ## 📁 Repository Structure
 
-Here's how this repository is organized:
+Here's how this repository is organized :
 
 ## 📬 Contact
  
