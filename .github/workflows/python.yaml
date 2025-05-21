@@ -1,0 +1,20 @@
+name: Python Test
+
+on:
+  push:
+    branches:
+      - feature/*
+      - main
+  pull_request:
+
+jobs:
+  Python-Run:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Check Python
+        run: python --version
+
+      - name: Run a simple command
+        run: python test.py
